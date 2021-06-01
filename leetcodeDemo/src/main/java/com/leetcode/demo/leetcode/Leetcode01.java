@@ -32,7 +32,6 @@ public class Leetcode01 {
                 }
             }
         }
-        System.out.println("hhhhhhhh");
         return new int[0];
     }
 
